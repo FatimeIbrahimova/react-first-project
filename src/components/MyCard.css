@@ -1,0 +1,24 @@
+.card-title a{
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    /* border: 1px solid red; */
+    bottom: 50px;
+   
+}
+.card-title{
+    position: absolute;
+    bottom: 90px;
+    left: 100px;
+}
+.card-image{
+    height: 100%;
+    position: relative;
+}
+.card-image:hover{
+    filter: brightness(50%);
+}
+.card{
+    position: relative;
+    /* display: flex; */
+}

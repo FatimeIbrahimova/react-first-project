@@ -1,0 +1,21 @@
+.navv {
+color:black;
+}
+.navv a{
+    text-decoration: none;
+    color: #000000;
+    font-size: 14px;
+}
+ .middle-nav{
+    padding-left: 15px;
+    display: inline;
+}
+.logo{
+    height:20px;
+}
+.nav-top:hover{
+ color:orange;
+}
+.nav-top{
+    padding-left: 10px;
+}

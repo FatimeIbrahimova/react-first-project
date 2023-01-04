@@ -1,0 +1,41 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "name": "Red Whine",
+        "image":"https://wpbingosite.com/wordpress/kowine/wp-content/webp-express/webp-images/uploads/2021/06/banner39.jpg.webp"
+      },
+      {
+        "id": 2,
+        "name": "White Wine",
+        "image":"https://wpbingosite.com/wordpress/kowine/wp-content/webp-express/webp-images/uploads/2021/06/banner40.jpg.webp"
+      },
+      {
+        "id": 3,
+        "name": "Champagne",
+        "image":"https://wpbingosite.com/wordpress/kowine/wp-content/webp-express/webp-images/uploads/2021/06/banner41.jpg.webp"
+      },
+      {
+        "id": 4,
+        "name": "Rose Wine",
+        "image":"https://wpbingosite.com/wordpress/kowine/wp-content/webp-express/webp-images/uploads/2021/06/banner42.jpg.webp"
+      }
+    ],
+    "product": [
+      {
+        "id": 1,
+        "name": "Vet",
+        "image":"https://wpbingosite.com/wordpress/kowine/wp-content/webp-express/webp-images/uploads/2018/10/Wine-01-03-450x450.jpg.webp"
+      },
+      {
+        "id": 2,
+        "name": "Mollis",
+        "image":"https://wpbingosite.com/wordpress/kowine/wp-content/webp-express/webp-images/uploads/2021/05/Product5-450x450.jpg.webp"
+      },
+      {
+        "id": 3,
+        "name": "Erat",
+        "image":"https://wpbingosite.com/wordpress/kowine/wp-content/webp-express/webp-images/uploads/2021/05/Product27-450x450.jpg.webp"
+      }
+    ]
+  }
