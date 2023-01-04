@@ -6,6 +6,9 @@ color:black;
     color: #000000;
     font-size: 14px;
 }
+.navLeft{
+    padding-top: 10px;
+}
  .middle-nav{
     padding-left: 15px;
     display: inline;
@@ -14,7 +17,7 @@ color:black;
     height:20px;
 }
 .nav-top:hover{
- color:orange;
+ color:#c0a483;
 }
 .nav-top{
     padding-left: 10px;

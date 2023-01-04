@@ -24,17 +24,17 @@
     "product": [
       {
         "id": 1,
-        "name": "Vet",
+        "name": "In Hac Habitasse Platea Dictumst Tempor Vet",
         "image":"https://wpbingosite.com/wordpress/kowine/wp-content/webp-express/webp-images/uploads/2018/10/Wine-01-03-450x450.jpg.webp"
       },
       {
         "id": 2,
-        "name": "Mollis",
+        "name": "In Hac Habitasse Platea Dictumst Tempor Mollis",
         "image":"https://wpbingosite.com/wordpress/kowine/wp-content/webp-express/webp-images/uploads/2021/05/Product5-450x450.jpg.webp"
       },
       {
         "id": 3,
-        "name": "Erat",
+        "name": "Sed Alliquam Viverra Consectetur Auctor Laoreet Erat",
         "image":"https://wpbingosite.com/wordpress/kowine/wp-content/webp-express/webp-images/uploads/2021/05/Product27-450x450.jpg.webp"
       }
     ]

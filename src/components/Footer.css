@@ -1,0 +1,37 @@
+.footer{
+    display: flex;
+    gap:100px;
+    background-color:rgb(245, 247, 246);
+    margin-top: 40px;
+}
+.footer li{
+    list-style-type: none;
+    padding-bottom: 10px;
+    /* color:#868686; */
+}
+.footer-icons{
+    display: flex;
+}
+.icons:hover{
+    background-color: #c0a483;
+    color:white;
+}
+.footer-icons li{
+    width: 35px;
+    height: 25px;
+    border-radius:50%;
+    padding-left:5px;
+    padding-top: 7px;
+    margin-left: 9px;
+    border:1px solid grey;
+}
+.footer-list li:hover{
+    color:#c0a483;
+}
+.footer-list li{
+    color:#868686;
+}
+.footer-bottom{
+    display: flex;
+    gap:810px
+}

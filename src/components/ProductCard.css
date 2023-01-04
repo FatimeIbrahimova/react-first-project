@@ -1,0 +1,12 @@
+/* .product-card{
+    position: relative;
+} */
+.product-card_image{
+    /* position: relative; */
+    height: 100%;
+}
+/* .product-desc{
+    position: absolute;
+    bottom: -1000px;
+    width: 250px;
+} */
